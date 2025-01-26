@@ -26,7 +26,7 @@ Petals addresses these concerns by maintaining a curated and private blocklist, 
 
 
 ### 🚫 **Avoiding Blacklisting Risks**
-Public blocklists like SURBL can mistakenly blacklist your IP, especially with services like Cloudflare, disrupting access for legitimate users. The use of bot data for blacklisting increases the risk of false positives.
+Public blocklists like SURBL can mistakenly blacklist your IP, especially with services like Cloudflare (that gets abused and shared with others), disrupting access for legitimate users. The use of bot data for blacklisting increases the risk of false positives.
 
 Petals addresses these issues with a private, curated blocklist that targets only malicious scanners, ensuring legitimate traffic remains unaffected and providing ongoing protection against the latest threats.
 Continuously updated by dedicated maintainers, Petals stays effective against the latest threats, providing you with ongoing peace of mind.
